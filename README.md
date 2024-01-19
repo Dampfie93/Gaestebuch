@@ -10,3 +10,4 @@ yo
 [<img src="https://cdn.7tv.app/emote/614d733420eaf897465a2f5a/4x.webp" width="16" alt="Dank" />](https://github.com/lucas19961 "Lucas was here")
 [<img src="https://cdn.7tv.app/emote/63fcb806f2915b442ca90e30/4x.webp" width="16" alt="Dank" />](https://github.com/maersux "Marcel was here too")
 [<img src="https://cdn.7tv.app/emote/647c81cdd4b5d6083e9200fc/4x.webp" width="16" alt="TwitchiSupporter" />](https://github.com/RechterBlox "TwitchiSupporter | Leon was here lol")
+[<img src="https://cdn.7tv.app/emote/63348fcb7500557623297f8e/4x.webp" width="16" alt="Lostency" />](https://github.com/Lostency "Lostency | Nina has yet to leak her Refresh Tokens again.")
