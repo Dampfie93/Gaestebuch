@@ -12,3 +12,4 @@ yo
 [<img src="https://cdn.7tv.app/emote/647c81cdd4b5d6083e9200fc/4x.webp" width="16" alt="TwitchiSupporter" />](https://github.com/RechterBlox "TwitchiSupporter | Leon was here lol")
 [<img src="https://cdn.7tv.app/emote/63348fcb7500557623297f8e/4x.webp" width="16" alt="Lostency" />](https://github.com/Lostency "Lostency | Nina has yet to leak her Refresh Tokens again.")
 [<img src="https://cdn.7tv.app/emote/638767f24cc489ef45239272/4x.webp" width="16" alt="topi" />](https://github.com/topi314 "topi | helo")
+[<img src="https://cdn.7tv.app/emote/638767f24cc489ef45239272/4x.webp" width="16" alt="dieserdampf" />](https://github.com/Dampfie93 "Leck Eier")
